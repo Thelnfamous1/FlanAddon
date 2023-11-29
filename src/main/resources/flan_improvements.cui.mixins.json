@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "org.enginehub.worldeditcui.fabric.mixins",
+  "minVersion": "0.8.5",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "flan_improvements.refmap.json",
+  "client": [
+    "MinecraftAccess"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
